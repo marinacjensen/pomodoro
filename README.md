@@ -1,5 +1,4 @@
-# Atividade #02 Programação Assíncrona
+# Atividade Pomodoro 🍅
 
-Vídeo explicando a atividade <https://youtu.be/L6ZWHoKhAgk>
+Atividde desenvolvida para praticar a programação assíncrona do JavaScript.
 
-Classroom link: <https://classroom.github.com/a/UjAGh71o>
