@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;700&display=swap');
+
+html, body {
+  margin: 0%;
+  padding: 0%;
+  background-color: rgb(218, 36, 36);
+}
+
+div.nav {
+  background-color: rgba(235, 70, 70, 0.651);
+  border-radius: 10px;
+  position: relative;
+  top: 40px;
+  left: 20%;
+  width: 40%;
+  height: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+}
+div.nav h1 {
+  text-align: center;
+  color: white;
+  font-family: "Rubik", sans-serif;
+  font-size: 300%;
+}
+button.pomodoro {
+  font-family: 'Rubik', sans-serif;
+  font-weight: bold;
+  font-size: 150%;
+  color: white;
+  background-color: rgb(218, 36, 36);
+  border: rgb(218, 36, 36);
+  border-radius: 20px;
+  width: fit-content;
+  margin-bottom: 10px;
+}
+button.descanso {
+  font-family: 'Rubik', sans-serif;
+  font-weight: bold;
+  font-size: 150%;
+  color: white;
+  background-color: rgb(218, 36, 36);
+  border: rgb(218, 36, 36);
+  border-radius: 20px;
+  width: fit-content;
+  margin-bottom: 10px;
+}
+
